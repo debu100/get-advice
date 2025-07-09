@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #1a1a1a;
+  color: #f5f5f5;
+  text-align: center;
+}
+
+button{
+  background-color: lightseagreen;
+  padding: 0.5rem 2rem;
+  border: none;
+  transition: 0.5s;
+}
+
+button:hover{
+  cursor: pointer;
+  background-color: darkseagreen;
+  letter-spacing: 3px;
+}
